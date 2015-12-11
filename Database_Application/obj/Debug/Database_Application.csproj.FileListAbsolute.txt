@@ -66,3 +66,4 @@ C:\Users\Jophy\Documents\Visual Studio 2015\Projects\Database_Application\Databa
 C:\Users\Jophy\Documents\Visual Studio 2015\Projects\Database_Application\Database_Application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Jophy\Documents\Visual Studio 2015\Projects\Database_Application\Database_Application\obj\Debug\Database_Application.dll
 C:\Users\Jophy\Documents\Visual Studio 2015\Projects\Database_Application\Database_Application\obj\Debug\Database_Application.pdb
+C:\Users\Jophy\Documents\Visual Studio 2015\Projects\Database_Application\Database_Application\obj\Debug\Database_Application.csprojResolveAssemblyReference.cache
